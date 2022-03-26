@@ -46,10 +46,6 @@
 [<img align="left" alt="Laravel" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />]
 
 
-<br />
-
-
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
