@@ -7,7 +7,7 @@
 
 ## I'm a Brother, Developer and Teacher!!
 
-- 🔭 I'm currenl learning Node js and Next js!
+- 🔭 I'm currently learning Node js and Next js!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Learn more about web3
