@@ -16,11 +16,11 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://davidcodes.io#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://davidcodes.io#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://davidcodes.io)
+[![website](./img/globe-dark.svg)](https://davidcodes.io)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/davi_codes)
+[![website](./img/twitter-dark.svg)](https://twitter.com/davi_codes#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/david-codes-b4ab85223/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/david-codes-b4ab85223/#gh-dark-mode-only)
