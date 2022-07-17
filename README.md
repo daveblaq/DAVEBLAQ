@@ -22,8 +22,8 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/davi_codes#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/davi_codes#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/david-codes-b4ab85223/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/david-codes-b4ab85223/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/david-oladele-b4ab85223/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/david-oladele-b4ab85223/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/_davidblaq#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/_davidblaq#gh-dark-mode-only)
