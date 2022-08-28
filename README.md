@@ -5,7 +5,7 @@
 
 
 
-## I'm a Brother, Developer and Teacher!!
+## I'm a Javascript Developer and Teacher!!
 
 - 🔭 I'm currently learning Node js and Next js!
 - 🌱 I’m currently learning everything 🤣
