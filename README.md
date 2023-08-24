@@ -4,15 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/davi_codes?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdavi_codes&screen_name=davi_codes)
 
 
-
-## I'm a Javascript Developer and Teacher!!
-
-- 🔭 I'm currently learning Node js and Next js!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love good music and I love to help
-- 😻 I love to spend time with me and it boosts up my thinking capability
+I'm David, a FullStack Software Engineer based in Nigeria who's passionate about using technology to create positive change in the world. With every project I undertake, I strive to empower others and build innovative solutions that make a real difference. Let's code for a brighter tomorrow! 🌞💻🌍
 
 ### Connect with me:
 
