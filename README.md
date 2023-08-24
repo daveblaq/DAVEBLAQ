@@ -2,7 +2,6 @@
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/davi_codes?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdavi_codes&screen_name=davi_codes)
-[![Linkedin Follow](https://img.shields.io/linkedin/follow/davi_codes?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://linkedin.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdavi_codes&screen_name=davi_codes)
 
 
 I'm David, a FullStack Software Engineer based in Nigeria who's passionate about using technology to create positive change in the world. With every project I undertake, I strive to empower others and build innovative solutions that make a real difference. Let's code for a brighter tomorrow! 🌞💻🌍
